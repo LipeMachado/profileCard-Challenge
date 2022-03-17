@@ -15,8 +15,8 @@ import {
     StatisticsTextH2
 } from "./style";
 
-import photoProfile from '../../assets/image-victor.jpg';
-import bgCard from '../../assets/bg-pattern-card.png';
+import photoProfile from '../../assets/imageVictor.jpg';
+import bgCard from '../../assets/bgPatternCard.png';
 
 export function BoxProfile() {
     return (

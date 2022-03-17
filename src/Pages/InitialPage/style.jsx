@@ -1,5 +1,6 @@
+import React from 'react';
 import styled from 'styled-components';
-import bgTopPattern from "../../assets/bg-pattern-top.png";
+import bgTopPattern from "../../assets/bgPatternTop.png";
 
 export const BackgroundSection = styled.section`
     display: flex;
