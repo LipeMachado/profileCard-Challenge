@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-import { bgBottomPattern } from './assets/bg-pattern-bottom.svg';
+import  bgBottomPattern from './assets/bg-pattern-bottom.svg';
 
 export const GlobalStyle = createGlobalStyle`
 
