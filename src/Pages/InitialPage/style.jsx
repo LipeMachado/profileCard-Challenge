@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import bgTopPattern from "../../assets/bg-pattern-top.svg";
+import bgTopPattern from "../../assets/bg-pattern-top.png";
 
 export const BackgroundSection = styled.section`
     display: flex;
