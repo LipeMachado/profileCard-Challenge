@@ -16,7 +16,7 @@ import {
 } from "./style";
 
 import photoProfile from '../../assets/image-victor.jpg';
-import bgCard from '../../assets/bg-pattern-card.svg';
+import bgCard from '../../assets/bg-pattern-card.png';
 
 export function BoxProfile() {
     return (
