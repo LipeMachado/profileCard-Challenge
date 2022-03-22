@@ -2,7 +2,7 @@
 
 Site do desafio: <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank">Frontend Mentor</a>
 
-Site que eu desenvolvi: <a href="" target="_blank">Meu Site</a>
+Site que eu desenvolvi: <a href="https://profilecard-challenge.vercel.app/" target="_blank">Meu Site</a>
 
 
 # Design do site a ser desenvolvido:
