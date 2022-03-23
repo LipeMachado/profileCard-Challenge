@@ -1,4 +1,4 @@
-# Desafio Frontend - QR code component
+# Desafio Frontend - QR Code Component
 
 Site do desafio: <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank">Frontend Mentor</a>
 
@@ -13,3 +13,13 @@ Site que eu desenvolvi: <a href="https://profilecard-challenge.vercel.app/" targ
 ## Versão Mobile:
 
 ![mobile-design](https://user-images.githubusercontent.com/49801321/157580973-7ac7f865-148c-4df9-976d-e097cf7080d9.jpg)
+
+## 🚀  Technologies
+
+-   React JS
+-   JavaScript
+
+Packages:
+
+-   styled-components
+-   react-router-dom
