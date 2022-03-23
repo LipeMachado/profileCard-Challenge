@@ -5,7 +5,7 @@ Site do desafio: <a href="https://www.frontendmentor.io/challenges/profile-card-
 Site que eu desenvolvi: <a href="https://profilecard-challenge.vercel.app/" target="_blank">Meu Site</a>
 
 
-# Design do site a ser desenvolvido:
+# Prévia do site a ser desenvolvido:
 ## Versão Desktop:
 
 ![desktop-design](https://user-images.githubusercontent.com/49801321/157580959-aafa6821-e079-497f-9a03-40c5a5d57544.jpg)
