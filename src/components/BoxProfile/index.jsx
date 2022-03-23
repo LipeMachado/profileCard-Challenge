@@ -15,7 +15,7 @@ import {
     StatisticsTextH2
 } from "./style";
 
-import photoProfile from '../../assets/imageFelipe.jpeg';
+import photoProfile from '../../assets/imageVictor.jpg';
 import bgCard from '../../assets/bgPatternCard.png';
 
 export function BoxProfile() {
