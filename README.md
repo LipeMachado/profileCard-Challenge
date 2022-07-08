@@ -1,4 +1,4 @@
-# Desafio Frontend - QR Code Component
+# Desafio Profile Card | Frontend
 
 Site do desafio (Frontend Mentor): <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank">Frontend Mentor</a>
 
